@@ -1,0 +1,2 @@
+caffeÂ·¾¶+Build\x64\Release\caffe.exe deploy.prototxt vgg16_places365.caffemodel mean.binaryproto synset_words.txt 111.jpg  
+pause 
