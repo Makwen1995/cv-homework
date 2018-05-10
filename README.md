@@ -10,5 +10,7 @@ synset_words.txt（将categories_places365.txt中对应的类别提取出来并�
 2、运行caffe：
 修改test.txt中的代码
 
-'''caffe.exe deploy.prototxt vgg16_places365.caffemodel mean.binaryproto synset_words.txt 111.jpg'''
+```
+caffe deploy.prototxt vgg16_places365.caffemodel mean.binaryproto synset_words.txt 111.jpg
 pause 
+```
