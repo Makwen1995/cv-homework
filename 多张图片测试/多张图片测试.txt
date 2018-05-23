@@ -1,3 +1,0 @@
-1.生成文件夹下图片路径的文本
-2.均值文件mean.binaryproto需要转换为mean.npy文件(create_meannpy.py)
-3.修改test.py进行测试
