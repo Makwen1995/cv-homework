@@ -9,7 +9,7 @@ root='/home/51744/cv-homework/' #根目录
 deploy=root+'deploy_resnet152_places365.prototxt'      #deploy文件的路径
 caffe_model=root+'resnet152_places365.caffemodel'  #caffe_model的路径
 mean_file=root+'mean.npy'     #mean_file的路径--注意，在python中要将mean.binaryproto转换为mean.npy格式
-
+labels_filename=root+'categories_places365.txt'  #sysset_words.txt的路径
 result = open(root+'result2.txt','w')
 #预读待分类的图片
 import os
@@ -30,20 +30,20 @@ transformer.set_mean('data',np.load(mean_file).mean(1).mean(1)) #减去均值
 transformer.set_raw_scale('data',255)  #缩放到[0,255]之间
 transformer.set_channel_swap('data',(2,1,0))  #交换通道，将图片由RGB变成BGR
 
-
+labels=np.loadtxt(labels_filename,str,delimiter='/t') #读取类别名称文件
 #加载图片
 for i in range(0,len(filelist)):
     img=filelist[i]   #获取当前图片的路径
     print(filenames[i])    #打印当前图片的名称
     result.write(filenames[i]+'\n')
-    labels_filename=root+'scene_labels/'+filenames[i][:-3]+'txt'  #sysset_words.txt的路径 
+     
     im=caffe.io.load_image(img) #加载图片
     net.blobs['data'].data[...]=transformer.preprocess('data',im) #执行上面的预处理操作，并将图片载入到blob中
      
 #执行测试
     out=net.forward()
      
-    labels=np.loadtxt(labels_filename,str,delimiter='/t') #读取类别名称文件
+    
     prob=net.blobs['prob'].data[0].flatten()   #取出最后一层(prob)属于某个类标的概率值，'prob'为最后一层的名称
      
 
