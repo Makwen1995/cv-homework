@@ -1,0 +1,1000 @@
+2335197.jpg
+railroad_track	valley	train_station	viaduct
+2366304.jpg
+campus	park	playground	plaza
+2391515.jpg
+train_station	railroad_track	subway_station	industrial_area
+2332756.jpg
+pizzeria	bakery	delicatessen	candy_store
+2403490.jpg
+living_room	childs_room	playroom	sandbox
+1592858.jpg
+loading_dock	subway_station	shopfront	doorway
+2380261.jpg
+florist_shop	botanical_garden	orchard	rainforest
+2397707.jpg
+castle	tower	palace	water_tower
+2330833.jpg
+raceway	highway	parking_lot	street
+2316981.jpg
+mountain_snowy	snowfield	ski_slope	ski_resort
+489.jpg
+residential_neighborhood	courtyard	campus	driveway
+2378219.jpg
+art_studio	art_gallery	butchers_shop	restaurant
+2326453.jpg
+computer_room	home_office	office_cubicles	office
+2380438.jpg
+pizzeria	bakery	restaurant	delicatessen
+2376437.jpg
+bathroom	shower	sauna	utility_room
+2385240.jpg
+ski_slope	crevasse	glacier	snowfield
+2383462.jpg
+lighthouse	tower	water_tower	harbor
+2389597.jpg
+corral	picnic_area	hunting_lodge	zen_garden
+2337015.jpg
+ski_resort	ski_slope	igloo	ice_skating_rink
+2370301.jpg
+mountain_snowy	glacier	snowfield	mountain_path
+2387239.jpg
+rice_paddy	cemetery	fountain	yard
+2381470.jpg
+tower	courthouse	museum	church
+2393099.jpg
+ice_skating_rink	ski_slope	ski_resort	park
+2332337.jpg
+playground	corral	tree_house	kennel
+285960.jpg
+playground	street	promenade	crosswalk
+2392299.jpg
+wave	ocean	coast	swimming_hole
+2378906.jpg
+islet	lagoon	cliff	coast
+2407713.jpg
+amusement_arcade	amusement_park	ball_pit	toyshop
+684.jpg
+beach	wave	watering_hole	coast
+2375203.jpg
+baseball_field	stadium	kennel	volleyball_court
+2369394.jpg
+street	beer_garden	plaza	park
+2402323.jpg
+market	supermarket	bakery	ball_pit
+1592456.jpg
+television_room	waiting_room	living_room	dorm_room
+2340011.jpg
+alley	street	building_facade	downtown
+2389612.jpg
+forest_road	highway	field_road	park
+2323883.jpg
+subway_station	train_station	train_interior	arcade
+2405088.jpg
+bow_window	restaurant	coffee_shop	dining_hall
+3029.jpg
+medina	alley	embassy	motel
+2389855.jpg
+runway	heliport	airfield	landing_deck
+2354787.jpg
+marsh	watering_hole	tundra	rice_paddy
+2403450.jpg
+racecourse	athletic_field	soccer_field	football_field
+2394917.jpg
+ski_resort	ski_slope	chalet	ice_skating_rink
+2393624.jpg
+waiting_room	lecture_room	conference_center	computer_room
+2416611.jpg
+kitchen	restaurant_kitchen	galley	pantry
+1412.jpg
+parking_garage	hospital	embassy	campus
+2372467.jpg
+subway_station	train_station	railroad_track	train_interior
+1593027.jpg
+pizzeria	dining_hall	cafeteria	restaurant
+2374970.jpg
+stage	beer_garden	sky	campsite
+2395502.jpg
+snowfield	ice_floe	ski_slope	ice_shelf
+2365674.jpg
+restaurant	pizzeria	cafeteria	dining_hall
+2318994.jpg
+greenhouse	pavilion	gazebo	roof_garden
+2332600.jpg
+highway	desert_road	field_road	parking_lot
+2407120.jpg
+stadium	soccer_field	stadium	football_field
+2366587.jpg
+watering_hole	marsh	rice_paddy	swamp
+2399199.jpg
+street	crosswalk	plaza	campus
+2403447.jpg
+bus_station	fire_station	street	highway
+2368615.jpg
+home_office	television_room	office	living_room
+2354913.jpg
+market	park	plaza	campus
+2366700.jpg
+stable	arena	pasture	bullring
+2377946.jpg
+berth	dorm_room	youth_hostel	hotel_room
+2334862.jpg
+ski_slope	ski_resort	ice_skating_rink	snowfield
+2377869.jpg
+computer_room	home_office	office	office_cubicles
+2754.jpg
+residential_neighborhood	oast_house	campus	driveway
+2378062.jpg
+physics_laboratory	music_studio	server_room	office
+2329671.jpg
+wave	ocean	coast	beach
+2379549.jpg
+wave	ocean	coast	beach
+2387194.jpg
+bathroom	shower	jacuzzi	jail_cell
+2387687.jpg
+wave	ocean	coast	beach
+2341390.jpg
+kennel	car_interior	cockpit	boat_deck
+2393855.jpg
+highway	desert_road	parking_lot	field_road
+2416730.jpg
+snowfield	ski_slope	tundra	mountain_path
+2368522.jpg
+ski_slope	ski_resort	playground	snowfield
+2403745.jpg
+railroad_track	train_station	subway_station	industrial_area
+2326153.jpg
+motel	crosswalk	highway	gas_station
+2391671.jpg
+bus_station	street	parking_garage	crosswalk
+2326916.jpg
+dining_room	conference_room	dining_hall	living_room
+2376556.jpg
+hayfield	farm	wheat_field	pasture
+2417745.jpg
+shed	botanical_garden	rainforest	forest_road
+2333664.jpg
+lagoon	coast	harbor	ocean
+2327227.jpg
+ski_slope	snowfield	glacier	ski_resort
+2338992.jpg
+beer_garden	restaurant_patio	market	food_court
+2322763.jpg
+airport_terminal	bus_station	corridor	subway_station
+2331971.jpg
+inn	alley	slum	building_facade
+2414009.jpg
+park	picnic_area	yard	driveway
+2322041.jpg
+raft	moat	harbor	pier
+2387308.jpg
+train_station	railroad_track	subway_station	lock_chamber
+2392771.jpg
+farm	pasture	corral	field
+2394742.jpg
+train_station	subway_station	railroad_track	bus_station
+713288.jpg
+bus_station	street	highway	fire_station
+2409472.jpg
+crosswalk	plaza	courtyard	medina
+2396762.jpg
+snowfield	ice_skating_rink	igloo	kennel
+2417635.jpg
+glacier	mountain_snowy	snowfield	crevasse
+2394051.jpg
+office	home_office	dorm_room	office_cubicles
+2377094.jpg
+dorm_room	youth_hostel	bedroom	hotel_room
+2415992.jpg
+beach	wave	ocean	coast
+2387795.jpg
+bakery	museum	art_gallery	natural_history_museum
+2346590.jpg
+stable	pet_shop	arena	corral
+2347488.jpg
+tundra	coast	ocean	cliff
+2394696.jpg
+stadium	baseball_field	stadium	stadium
+2391232.jpg
+train_station	railroad_track	subway_station	viaduct
+2416998.jpg
+farm	lawn	pasture	corral
+2378128.jpg
+railroad_track	train_station	industrial_area	excavation
+2385581.jpg
+bathroom	shower	jacuzzi	wet_bar
+2394867.jpg
+train_station	subway_station	railroad_track	viaduct
+2377409.jpg
+beer_garden	market	flea_market	stage
+2399311.jpg
+delicatessen	butchers_shop	bakery	fastfood_restaurant
+2412119.jpg
+stadium	baseball_field	stadium	bullring
+2413729.jpg
+crosswalk	boardwalk	street	highway
+2335175.jpg
+parking_lot	street	forest_road	park
+2320204.jpg
+ocean	coast	lake	beach
+2372935.jpg
+railroad_track	castle	village	farm
+2401246.jpg
+recreation_room	music_studio	amusement_arcade	bowling_alley
+2406555.jpg
+crosswalk	downtown	skyscraper	office_building
+2390143.jpg
+runway	landing_deck	airfield	hangar
+2330524.jpg
+kitchen	restaurant_kitchen	galley	utility_room
+2329882.jpg
+home_theater	television_room	home_office	computer_room
+2379427.jpg
+youth_hostel	dorm_room	berth	bedroom
+2349457.jpg
+ski_slope	ski_resort	snowfield	ice_skating_rink
+2338474.jpg
+racecourse	stage	athletic_field	amphitheater
+796.jpg
+arcade	bazaar	hardware_store	shoe_shop
+2330324.jpg
+parking_lot	street	crosswalk	raceway
+2386047.jpg
+corral	farm	pasture	vineyard
+2329354.jpg
+harbor	water_park	amusement_park	raft
+1160098.jpg
+heliport	airfield	auto_factory	assembly_line
+2380948.jpg
+shower	bathroom	berth	boat_deck
+2406202.jpg
+desert	ski_slope	snowfield	sky
+2394906.jpg
+ice_cream_parlor	bakery	coffee_shop	restaurant
+2379986.jpg
+baseball_field	stadium	kennel	volleyball_court
+2388532.jpg
+ocean	beach	coast	wave
+2315545.jpg
+alley	arcade	crosswalk	street
+2368427.jpg
+subway_station	train_station	railroad_track	train_interior
+2343207.jpg
+baseball_field	stadium	stadium	stadium
+3063.jpg
+embassy	parking_garage	office_building	plaza
+2407243.jpg
+church	synagogue	tower	arch
+2335964.jpg
+river	harbor	coast	islet
+2397290.jpg
+river	bridge	lake	harbor
+4153.jpg
+church	tower	museum	synagogue
+2335558.jpg
+home_office	office	office_cubicles	dorm_room
+904.jpg
+promenade	mosque	plaza	mausoleum
+2327342.jpg
+soccer_field	athletic_field	volleyball_court	stadium
+2318258.jpg
+office_building	hotel	downtown	embassy
+2415007.jpg
+sky	airfield	runway	heliport
+2006.jpg
+waiting_room	recreation_room	hotel_room	living_room
+2372813.jpg
+volleyball_court	baseball_field	soccer_field	kennel
+2326458.jpg
+harbor	boathouse	marsh	swamp
+2389380.jpg
+pizzeria	beer_hall	restaurant	cafeteria
+2382525.jpg
+field	lawn	pasture	corral
+2386847.jpg
+marsh	watering_hole	pond	lake
+2331639.jpg
+highway	motel	forest_road	crosswalk
+2412956.jpg
+runway	airfield	landing_deck	heliport
+2316707.jpg
+volleyball_court	baseball_field	stadium	bullring
+2393050.jpg
+medina	alley	street	arcade
+2380569.jpg
+berth	dorm_room	youth_hostel	movie_theater
+2379399.jpg
+tundra	field	rice_paddy	corn_field
+2341772.jpg
+stable	corral	arena	racecourse
+2378867.jpg
+watering_hole	natural_history_museum	corral	bullring
+2357266.jpg
+shopfront	pharmacy	drugstore	general_store
+2329751.jpg
+crosswalk	street	forest_road	highway
+2380368.jpg
+tundra	watering_hole	field	pasture
+446.jpg
+bazaar	market	slum	medina
+2363967.jpg
+playground	athletic_field	volleyball_court	heliport
+2316447.jpg
+waiting_room	home_theater	television_room	recreation_room
+2411347.jpg
+volleyball_court	athletic_field	gymnasium	basketball_court
+2379459.jpg
+bakery	coffee_shop	candy_store	delicatessen
+2327975.jpg
+delicatessen	bakery	fastfood_restaurant	coffee_shop
+2391558.jpg
+veterinarians_office	nursing_home	pet_shop	operating_room
+2390450.jpg
+railroad_track	train_station	subway_station	viaduct
+2380976.jpg
+watering_hole	orchard	pond	lake
+2403126.jpg
+hospital	bus_station	parking_garage	embassy
+2385968.jpg
+palace	plaza	church	promenade
+2341423.jpg
+home_theater	television_room	living_room	movie_theater
+2386327.jpg
+office_cubicles	office	art_studio	kindergarden_classroom
+2390367.jpg
+promenade	parking_lot	motel	coast
+2387667.jpg
+water_park	raft	lagoon	wave
+2325701.jpg
+home_theater	television_room	movie_theater	living_room
+2415463.jpg
+doorway	barndoor	garage	loading_dock
+2399973.jpg
+crosswalk	park	downtown	plaza
+2404106.jpg
+bathroom	shower	jacuzzi	jail_cell
+2367429.jpg
+islet	lake	beach	coast
+1592678.jpg
+fastfood_restaurant	diner	general_store	restaurant_patio
+2380758.jpg
+topiary_garden	park	roof_garden	greenhouse
+2378210.jpg
+tower	arch	church	courthouse
+2374958.jpg
+tundra	pasture	field	farm
+2360260.jpg
+pasture	tundra	lake	valley
+2318334.jpg
+ice_cream_parlor	bakery	fastfood_restaurant	delicatessen
+2390665.jpg
+bathroom	patio	shower	jacuzzi
+2368127.jpg
+arcade	bazaar	alley	market
+2394685.jpg
+airfield	runway	landing_deck	heliport
+2397339.jpg
+bakery	delicatessen	department_store	fastfood_restaurant
+1592015.jpg
+mosque	palace	church	tower
+2416805.jpg
+nursing_home	hospital_room	beauty_salon	office
+2387764.jpg
+restaurant_kitchen	repair_shop	biology_laboratory	assembly_line
+2336982.jpg
+bar	pub	beer_hall	beer_garden
+2324230.jpg
+veterinarians_office	nursing_home	gift_shop	nursery
+2376990.jpg
+ski_slope	snowfield	tundra	ice_floe
+2403942.jpg
+shoe_shop	martial_arts_gym	hotel_room	dorm_room
+2370519.jpg
+gas_station	motel	residential_neighborhood	parking_lot
+713931.jpg
+harbor	pier	canal	coast
+2377051.jpg
+bus_station	crosswalk	highway	street
+2327315.jpg
+swimming_hole	marsh	raft	beach
+2416639.jpg
+sushi_bar	coffee_shop	restaurant	restaurant_kitchen
+2393057.jpg
+ski_slope	snowfield	crevasse	mountain_snowy
+2322888.jpg
+corral	highway	driveway	desert_road
+2400369.jpg
+motel	gas_station	crosswalk	fastfood_restaurant
+2381194.jpg
+yard	roof_garden	oast_house	topiary_garden
+2395394.jpg
+raceway	highway	runway	racecourse
+2386065.jpg
+wave	ocean	coast	beach
+2397209.jpg
+snowfield	ski_slope	mountain_snowy	glacier
+3059.jpg
+embassy	street	parking_garage	office_building
+2390455.jpg
+tower	church	courthouse	skyscraper
+2376218.jpg
+beer_hall	pub	pizzeria	restaurant
+2336576.jpg
+computer_room	home_office	office	television_studio
+3149.jpg
+downtown	office_building	hotel	crosswalk
+2329782.jpg
+wave	ocean	coast	raft
+2372268.jpg
+harbor	canal	promenade	pier
+2400461.jpg
+market	supermarket	orchard	delicatessen
+2415951.jpg
+runway	airfield	landing_deck	heliport
+2345582.jpg
+promenade	boardwalk	plaza	street
+2410835.jpg
+soccer_field	stadium	stadium	football_field
+2395816.jpg
+bakery	coffee_shop	delicatessen	fastfood_restaurant
+2412591.jpg
+dorm_room	bedroom	hotel_room	berth
+2395148.jpg
+balcony	restaurant_patio	patio	porch
+2338121.jpg
+corral	farm	pasture	kennel
+2391510.jpg
+park	volleyball_court	playground	baseball_field
+2385722.jpg
+park	picnic_area	japanese_garden	botanical_garden
+2392480.jpg
+park	ice_skating_rink	sandbox	playground
+2339104.jpg
+sushi_bar	restaurant_kitchen	pizzeria	dining_room
+2377859.jpg
+pizzeria	delicatessen	bakery	fastfood_restaurant
+2390308.jpg
+sky	airfield	ski_slope	army_base
+2383701.jpg
+soccer_field	lawn	athletic_field	golf_course
+2413241.jpg
+stadium	baseball_field	stadium	football_field
+2384569.jpg
+highway	crosswalk	desert_road	parking_lot
+2386950.jpg
+corral	watering_hole	pasture	stable
+1592459.jpg
+bus_station	highway	street	parking_garage
+2404401.jpg
+youth_hostel	berth	dorm_room	closet
+713311.jpg
+ice_skating_rink	ski_slope	volleyball_court	ice_skating_rink
+2340054.jpg
+park	promenade	botanical_garden	formal_garden
+2398606.jpg
+ice_cream_parlor	bakery	coffee_shop	candy_store
+2395.jpg
+street	bus_station	crosswalk	downtown
+2353630.jpg
+watering_hole	field	tundra	desert_road
+2326683.jpg
+botanical_garden	rainforest	florist_shop	vegetable_garden
+286021.jpg
+home_theater	pet_shop	veterinarians_office	living_room
+2364209.jpg
+ski_slope	mountain_snowy	glacier	ski_resort
+2377460.jpg
+ski_slope	snowfield	mountain_snowy	glacier
+2391661.jpg
+railroad_track	train_station	subway_station	junkyard
+2394879.jpg
+oilrig	boat_deck	ocean	coast
+2319425.jpg
+mountain_path	desert	forest_path	field_road
+2411047.jpg
+islet	lagoon	coast	ocean
+2389837.jpg
+racecourse	street	raceway	plaza
+2327323.jpg
+fabric_store	art_studio	office	art_school
+873.jpg
+promenade	canal	downtown	plaza
+2333612.jpg
+coffee_shop	bakery	pizzeria	delicatessen
+2390776.jpg
+courthouse	hotel	museum	tower
+2415824.jpg
+heliport	airfield	runway	landing_deck
+2376959.jpg
+ski_slope	crevasse	glacier	snowfield
+2391235.jpg
+boathouse	swamp	marsh	river
+2386096.jpg
+jail_cell	hotel_room	bedroom	youth_hostel
+2393420.jpg
+kitchen	wet_bar	utility_room	galley
+2339526.jpg
+orchard	lawn	park	yard
+2374649.jpg
+lawn	yard	golf_course	baseball_field
+2415405.jpg
+wheat_field	corn_field	farm	rice_paddy
+2390629.jpg
+farm	corral	pasture	field
+2398670.jpg
+ski_slope	ski_resort	snowfield	chalet
+759.jpg
+loading_dock	medina	alley	street
+2346354.jpg
+watering_hole	swimming_hole	lake	marsh
+2368857.jpg
+harbor	pier	boat_deck	canal
+2390533.jpg
+nursery	phone_booth	shower	pantry
+2414767.jpg
+athletic_field	golf_course	soccer_field	racecourse
+2330322.jpg
+wave	raft	ocean	beach
+2390476.jpg
+pizzeria	restaurant_kitchen	galley	kitchen
+2408400.jpg
+campsite	forest_path	rainforest	mountain_path
+2392499.jpg
+sushi_bar	movie_theater	fastfood_restaurant	bar
+2350280.jpg
+swimming_hole	lake	pond	watering_hole
+2406159.jpg
+islet	beach	lagoon	coast
+2379003.jpg
+bus_station	fire_station	highway	loading_dock
+2382271.jpg
+harbor	castle	raft	moat
+2411284.jpg
+runway	airfield	landing_deck	heliport
+2375046.jpg
+market	supermarket	market	bazaar
+2410095.jpg
+canal	canal	river	bridge
+2345781.jpg
+lock_chamber	river	dam	coast
+2332541.jpg
+arena	athletic_field	soccer_field	orchard
+2330952.jpg
+kitchen	galley	restaurant_kitchen	reception
+1591862.jpg
+dining_hall	restaurant	market	sushi_bar
+2383882.jpg
+desert	promenade	beach	ice_shelf
+2331460.jpg
+train_station	subway_station	railroad_track	kennel
+2373435.jpg
+amusement_park	castle	water_park	racecourse
+2411109.jpg
+booth	classroom	fastfood_restaurant	office
+2316792.jpg
+bow_window	airport_terminal	balcony	bridge
+2372015.jpg
+park	botanical_garden	japanese_garden	picnic_area
+4730.jpg
+driveway	manufactured_home	residential_neighborhood	forest_road
+2358077.jpg
+highway	field_road	corn_field	forest_road
+2345265.jpg
+television_room	home_theater	hotel_room	bedchamber
+2393440.jpg
+beach	ocean	coast	wave
+2371906.jpg
+waiting_room	recreation_room	zen_garden	parking_lot
+2331746.jpg
+beach	coast	ocean	promenade
+2377643.jpg
+bus_station	street	parking_garage	crosswalk
+2414394.jpg
+wave	ocean	coast	beach
+2415114.jpg
+airplane_cabin	airport_terminal	parking_garage	parking_lot
+2374663.jpg
+stadium	baseball_field	stadium	football_field
+2376960.jpg
+pizzeria	bakery	coffee_shop	delicatessen
+4773.jpg
+house	oast_house	cottage	inn
+2407767.jpg
+computer_room	home_office	office	office_cubicles
+713330.jpg
+home_office	office	computer_room	office_cubicles
+2377636.jpg
+watering_hole	zen_garden	field	fishpond
+2342485.jpg
+crosswalk	landing_deck	runway	music_studio
+2403364.jpg
+orchard	vineyard	vegetable_garden	rainforest
+2329332.jpg
+bamboo_forest	rope_bridge	rainforest	amusement_park
+2358836.jpg
+forest_road	bamboo_forest	forest_path	rainforest
+2336541.jpg
+restaurant	coffee_shop	delicatessen	cafeteria
+2404753.jpg
+train_station	railroad_track	subway_station	viaduct
+4935.jpg
+lake	valley	pond	river
+2403548.jpg
+restaurant_patio	beer_garden	diner	cafeteria
+2411343.jpg
+dining_room	living_room	nursing_home	dining_hall
+2315683.jpg
+rainforest	botanical_garden	zen_garden	japanese_garden
+2330739.jpg
+hospital_room	nursing_home	dorm_room	hotel_room
+2343728.jpg
+bus_station	parking_garage	subway_station	highway
+2333668.jpg
+ski_slope	glacier	snowfield	mountain_snowy
+2399368.jpg
+watering_hole	tundra	marsh	beach
+2324792.jpg
+igloo	driveway	yard	ski_resort
+2391998.jpg
+raceway	runway	heliport	airfield
+2336157.jpg
+wave	ocean	coast	beach
+713257.jpg
+dining_room	recreation_room	reception	art_studio
+2413038.jpg
+delicatessen	butchers_shop	pizzeria	supermarket
+2339005.jpg
+bow_window	artists_loft	reception	lobby
+2407072.jpg
+crosswalk	parking_lot	street	downtown
+2392456.jpg
+boat_deck	harbor	pier	oilrig
+2415987.jpg
+kasbah	archaelogical_excavation	landfill	castle
+2402491.jpg
+promenade	crosswalk	balcony	street
+2334999.jpg
+airfield	runway	heliport	landing_deck
+2348237.jpg
+pond	watering_hole	lake	swimming_hole
+2357120.jpg
+dining_room	bow_window	coffee_shop	playroom
+2391342.jpg
+airfield	heliport	runway	landing_deck
+2377542.jpg
+repair_shop	parking_lot	ice_cream_parlor	coffee_shop
+2405831.jpg
+train_station	railroad_track	subway_station	loading_dock
+2389907.jpg
+lawn	rice_paddy	pasture	park
+2383065.jpg
+islet	coast	cliff	ocean
+2408099.jpg
+motel	general_store	house	inn
+2392270.jpg
+beach	ocean	wave	coast
+2345583.jpg
+dorm_room	waiting_room	living_room	berth
+2338325.jpg
+wet_bar	alcove	bank_vault	burial_chamber
+2328192.jpg
+bazaar	market	street	flea_market
+2377454.jpg
+youth_hostel	hotel_room	dorm_room	bedroom
+2393303.jpg
+church	tower	courthouse	mosque
+2394267.jpg
+bakery	coffee_shop	ice_cream_parlor	fastfood_restaurant
+2377762.jpg
+wave	ocean	coast	swimming_hole
+2387464.jpg
+baseball_field	stadium	football_field	martial_arts_gym
+2369304.jpg
+harbor	canal	skyscraper	downtown
+2371276.jpg
+promenade	balcony	volleyball_court	picnic_area
+2378217.jpg
+soccer_field	athletic_field	stadium	stadium
+2337629.jpg
+lake	ocean	coast	swimming_hole
+2378416.jpg
+lake	marsh	river	swamp
+2394103.jpg
+ice_cream_parlor	bakery	coffee_shop	delicatessen
+2379985.jpg
+ski_slope	snowfield	ski_resort	mountain_snowy
+2380675.jpg
+windmill	sky	skyscraper	construction_site
+2326078.jpg
+market	art_school	ice_cream_parlor	art_studio
+2389818.jpg
+tower	church	courthouse	palace
+2345340.jpg
+desert	desert	desert_road	watering_hole
+2177.jpg
+bow_window	dining_room	artists_loft	dining_hall
+2384959.jpg
+bedroom	childs_room	berth	hotel_room
+2373439.jpg
+residential_neighborhood	driveway	park	forest_road
+2379680.jpg
+desert	beach	ocean	coast
+2407540.jpg
+soccer_field	stadium	athletic_field	stadium
+2325454.jpg
+beer_garden	market	campsite	bus_station
+2392512.jpg
+islet	lagoon	beach	coast
+2400875.jpg
+zen_garden	archaelogical_excavation	rainforest	trench
+2379644.jpg
+delicatessen	restaurant	pizzeria	cafeteria
+2378346.jpg
+ski_resort	ski_slope	igloo	ice_skating_rink
+2321218.jpg
+topiary_garden	tree_farm	market	farm
+2371792.jpg
+office	home_office	office_cubicles	computer_room
+2415442.jpg
+highway	sky	crosswalk	motel
+2404948.jpg
+train_station	railroad_track	subway_station	loading_dock
+2409205.jpg
+cafeteria	pizzeria	food_court	restaurant
+2336159.jpg
+harbor	canal	lock_chamber	boathouse
+2369122.jpg
+tower	skyscraper	office_building	downtown
+2405615.jpg
+home_office	computer_room	office	office_cubicles
+2326476.jpg
+computer_room	office	home_office	office_cubicles
+2403122.jpg
+bathroom	shower	wet_bar	dressing_room
+2410410.jpg
+ski_slope	snowfield	glacier	crevasse
+2235.jpg
+residential_neighborhood	parking_lot	motel	driveway
+2374763.jpg
+market	bazaar	market	flea_market
+2395981.jpg
+runway	airfield	heliport	landing_deck
+2375410.jpg
+downtown	street	alley	construction_site
+2400601.jpg
+promenade	pier	boardwalk	harbor
+2333434.jpg
+orchard	field	rainforest	botanical_garden
+2405967.jpg
+train_station	railroad_track	subway_station	viaduct
+2378125.jpg
+pasture	mountain_path	hayfield	tundra
+2332581.jpg
+marsh	swimming_hole	watering_hole	swamp
+2325777.jpg
+garage	dorm_room	storage_room	basement
+2335838.jpg
+ocean	islet	beach	coast
+285909.jpg
+picnic_area	campsite	desert	landfill
+2392258.jpg
+lighthouse	water_tower	tower	crosswalk
+2372867.jpg
+watering_hole	topiary_garden	park	formal_garden
+2373726.jpg
+home_office	office	computer_room	library
+2333167.jpg
+coffee_shop	bakery	playroom	gift_shop
+1159396.jpg
+street	parking_lot	residential_neighborhood	crosswalk
+2363339.jpg
+topiary_garden	formal_garden	japanese_garden	grotto
+2415431.jpg
+bedroom	youth_hostel	hotel_room	childs_room
+2391951.jpg
+wave	ocean	coast	beach
+2413823.jpg
+bus_station	train_station	highway	lock_chamber
+2338467.jpg
+tower	church	synagogue	church
+2385226.jpg
+sky	airfield	heliport	tower
+2392627.jpg
+fire_station	crosswalk	parking_lot	bus_station
+2391917.jpg
+airfield	runway	heliport	landing_deck
+2329522.jpg
+ski_slope	snowfield	mountain_snowy	ski_resort
+2334857.jpg
+landfill	field_road	amphitheater	driveway
+2395001.jpg
+parking_lot	raceway	fire_station	street
+2376430.jpg
+lake	coast	ocean	marsh
+2417117.jpg
+rice_paddy	topiary_garden	field	amusement_park
+2390503.jpg
+kasbah	tower	church	mosque
+2417990.jpg
+restaurant_patio	patio	beer_garden	cafeteria
+2414779.jpg
+topiary_garden	formal_garden	botanical_garden	japanese_garden
+2410088.jpg
+bamboo_forest	rainforest	forest	forest_path
+2385810.jpg
+restaurant	cafeteria	delicatessen	sushi_bar
+2356756.jpg
+forest_path	bamboo_forest	forest	rainforest
+2348614.jpg
+boat_deck	harbor	pier	lock_chamber
+2324692.jpg
+tree_farm	pasture	mountain_path	forest_road
+2401869.jpg
+bakery	coffee_shop	delicatessen	restaurant
+2375667.jpg
+stadium	stadium	arena	football_field
+2334111.jpg
+ski_slope	ice_shelf	ski_resort	igloo
+2392226.jpg
+bridge	harbor	river	boat_deck
+2317770.jpg
+booth	office_cubicles	airport_terminal	science_museum
+2357760.jpg
+forest	orchard	rainforest	botanical_garden
+2334517.jpg
+waiting_room	television_room	wet_bar	living_room
+2405454.jpg
+bathroom	shower	wet_bar	utility_room
+2376297.jpg
+baseball_field	stadium	golf_course	stadium
+2406147.jpg
+mountain_snowy	snowfield	ski_slope	glacier
+2381324.jpg
+computer_room	home_office	office	office_cubicles
+2335577.jpg
+mountain_path	glacier	crevasse	snowfield
+2336704.jpg
+computer_room	office	home_office	office_cubicles
+272.jpg
+windmill	wind_farm	harbor	boathouse
+2387720.jpg
+delicatessen	restaurant	market	bakery
+2392944.jpg
+hotel_room	bedroom	bedchamber	youth_hostel
+2394700.jpg
+field	rainforest	botanical_garden	racecourse
+2372011.jpg
+television_room	hotel_room	dining_room	living_room
+2409939.jpg
+baseball_field	stadium	stadium	stadium
+1862.jpg
+residential_neighborhood	house	mansion	street
+2386394.jpg
+kitchen	galley	utility_room	restaurant_kitchen
+2329119.jpg
+restaurant	ice_cream_parlor	playroom	pizzeria
+2390811.jpg
+lawn	topiary_garden	park	formal_garden
+2332433.jpg
+computer_room	home_office	office	office_cubicles
+2321655.jpg
+synagogue	church	church	tower
+150474.jpg
+landing_deck	promenade	ski_slope	army_base
+2392722.jpg
+pizzeria	candy_store	delicatessen	bakery
+2393776.jpg
+living_room	waiting_room	hotel_room	home_theater
+2322385.jpg
+downtown	street	crosswalk	skyscraper
+2383844.jpg
+amusement_park	water_park	construction_site	sky
+2374535.jpg
+bus_station	street	parking_garage	crosswalk
+2367919.jpg
+promenade	lock_chamber	pier	train_station
+2390994.jpg
+bathroom	shower	utility_room	alcove
+2385296.jpg
+train_station	railroad_track	subway_station	industrial_area
+2416097.jpg
+repair_shop	music_studio	television_studio	basement
+3530.jpg
+manufactured_home	driveway	parking_lot	garage
+1592608.jpg
+manufactured_home	lawn	driveway	mansion
+2402177.jpg
+beach	ocean	coast	wave
+2392271.jpg
+zen_garden	bamboo_forest	kennel	picnic_area
+2390145.jpg
+ski_slope	ice_skating_rink	ski_resort	igloo
+2345353.jpg
+swimming_hole	watering_hole	river	creek
+2377972.jpg
+railroad_track	train_station	subway_station	industrial_area
+2330371.jpg
+street	crosswalk	promenade	highway
+2414769.jpg
+wind_farm	marsh	lake	harbor
+2396461.jpg
+veterinarians_office	bathroom	kennel	shower
+2389112.jpg
+airfield	runway	landing_deck	heliport
+2397771.jpg
+home_office	attic	television_room	home_theater
+2392759.jpg
+flea_market	toyshop	harbor	raft
+2330729.jpg
+pizzeria	bakery	delicatessen	restaurant
+2317226.jpg
+mosque	palace	tower	church
+2386229.jpg
+tundra	farm	pasture	field
+2318526.jpg
+street	park	ice_skating_rink	plaza
+2326800.jpg
+canal	boathouse	pier	swimming_hole
+2377926.jpg
+soccer_field	athletic_field	golf_course	park
+2383773.jpg
+television_room	living_room	home_office	recreation_room
+2411791.jpg
+kennel	tree_house	corral	playground
+2367520.jpg
+loading_dock	industrial_area	hangar	parking_lot
+709.jpg
+harbor	pier	boathouse	coast
+2386528.jpg
+beach	ocean	coast	desert_road
+2416313.jpg
+railroad_track	train_station	industrial_area	loading_dock
+2395830.jpg
+slum	landfill	promenade	playground
+1159738.jpg
+raceway	parking_lot	junkyard	highway
+2366479.jpg
+dining_room	conference_room	dining_hall	restaurant
+2385204.jpg
+train_station	railroad_track	subway_station	bus_station
+2415259.jpg
+ski_slope	ski_resort	snowfield	ice_skating_rink
+2386438.jpg
+kindergarden_classroom	playroom	recreation_room	martial_arts_gym
+2389578.jpg
+ski_slope	ice_skating_rink	ski_resort	snowfield
+2381572.jpg
+highway	industrial_area	hangar	field_road
+4416.jpg
+schoolhouse	courthouse	church	tower
+2415075.jpg
+dining_room	veterinarians_office	living_room	berth
+2407637.jpg
+crosswalk	street	alley	downtown
+2392744.jpg
+pizzeria	bakery	coffee_shop	restaurant
+2357133.jpg
+vineyard	orchard	corn_field	sky
+2414835.jpg
+runway	airfield	landing_deck	heliport
+2346898.jpg
+boat_deck	dining_hall	restaurant_patio	cafeteria
+2327415.jpg
+kennel	rope_bridge	alley	shower
+2336128.jpg
+hotel_room	dorm_room	bedroom	home_office
+2329916.jpg
+medina	alley	kasbah	slum
+2396680.jpg
+department_store	drugstore	pharmacy	bookstore
+2386803.jpg
+harbor	pier	canal	boathouse
+2404822.jpg
+computer_room	office	home_office	office_cubicles
+2343889.jpg
+bus_station	fire_station	parking_garage	loading_dock
+2323595.jpg
+soccer_field	stadium	athletic_field	stadium
+2407645.jpg
+art_gallery	zen_garden	desert	ice_shelf
